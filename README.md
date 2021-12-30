@@ -1,3 +1,13 @@
+## Interests
+* Angular
+* CSS
+* Javascript
+* PHP
+* RxJS
+* SQL
+* TypeScript
+* WordPress
+
 ## Contact Me
 
 * [Website](https://nightwolf.dev)
