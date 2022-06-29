@@ -2,10 +2,12 @@
 * Angular
 * CSS
 * Javascript
+* Node.js
 * PHP
 * RxJS
 * SQL
 * TypeScript
+* Vue
 * WordPress
 
 ## Contact Me
