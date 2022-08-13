@@ -1,3 +1,5 @@
+![Header](./github-header.png)
+
 ## Interests
 * Angular
 * CSS
