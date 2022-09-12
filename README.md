@@ -6,6 +6,7 @@
 * Javascript
 * Node.js
 * PHP
+* React
 * RxJS
 * SQL
 * TypeScript
