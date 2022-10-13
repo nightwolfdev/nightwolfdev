@@ -1,5 +1,13 @@
 ![Header](./github-header.png)
 
+## Projects
+
+| | |
+| :---: | :---: |
+| [![Quotes App](https://github.com/nightwolfdev/quotes/blob/main/src/assets/img/quotes-app.png)](https://github.com/nightwolfdev/quotes) | [![Users App](https://github.com/nightwolfdev/users/blob/main/src/assets/img/users-app.png)](https://github.com/nightwolfdev/users) |
+| [![Free Games App](https://github.com/nightwolfdev/freegames/blob/main/src/assets/img/free-games-app.png)](https://github.com/nightwolfdev/freegames) | [![Countries App](https://github.com/nightwolfdev/countries/blob/main/src/assets/img/countries-app.png)](https://github.com/nightwolfdev/countries) |
+| [![LEGO Search App](https://github.com/nightwolfdev/lego/blob/master/src/assets/img/lego-search-app.png)](https://github.com/nightwolfdev/lego) | [![TV Search App](https://github.com/nightwolfdev/tv/blob/master/src/assets/tv-search-app.png)](https://github.com/nightwolfdev/tv) |
+
 ## Interests
 * Angular
 * CSS
@@ -18,18 +26,3 @@
 * [Website](https://nightwolf.dev)
 * [Twitter](https://twitter.com/nightwolfdev)
 * [Facebook](https://www.facebook.com/NightWolfDevelopment/)
-
-<!--
-**nightwolfdev/nightwolfdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
