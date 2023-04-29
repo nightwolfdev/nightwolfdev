@@ -17,6 +17,7 @@
 * React
 * RxJS
 * SQL
+* Svelte
 * TypeScript
 * Vue
 * WordPress
