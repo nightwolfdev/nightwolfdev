@@ -18,6 +18,7 @@
 * RxJS
 * SQL
 * Svelte
+* Supabase
 * TypeScript
 * Vue
 * WordPress
@@ -26,4 +27,3 @@
 
 * [Website](https://nightwolf.dev)
 * [Twitter](https://twitter.com/nightwolfdev)
-* [Facebook](https://www.facebook.com/NightWolfDevelopment/)
